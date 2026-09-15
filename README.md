@@ -5,7 +5,6 @@ A Go language todo cli built using go built-in libraries to practice JSON serial
 
 * Add, list, complete, and delete tasks directly from your terminal
 * Persistent storage via local `todolist.json`
-* Stable auto-incrementing task IDs
 * Zero external dependencies (built with Go standard library)
 
 ## Installation
