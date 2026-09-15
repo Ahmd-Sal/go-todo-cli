@@ -35,6 +35,3 @@ You will be prompted to enter a number from 0 to 4, where each does the followin
 
 Adding a new task will automatically set its status to pending. 
 Also, the task id is equal to its slice index make the app as simple as possible 
-## License
-
-[MIT](https://www.google.com/search?q=LICENSE)
